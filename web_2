@@ -1,0 +1,42 @@
+<html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Welcome to the html world!</title>
+    <style type="text/css">
+a:link {
+text-decoration: none;color:white
+}
+a:visited {
+text-decoration: none;color:white
+}
+a:hover {
+text-decoration: none;color:white
+}
+a:active {
+text-decoration: none;color:white
+}
+</style>
+  </head>
+  <body background="pink.jpg">
+
+
+    <h1 style="text-align:center;font-size: 50px">Step two: set some images</h1>
+
+    <p style="font-size: 25px">&nbsp&nbspSet a background image to make the webpage
+    more...fascinating?</p>
+
+    <br><br>
+
+    <p style="font-size: 25px">&nbsp&nbspAlso fill the webpage with more images!</p>
+
+    <<img src="niera1.png" alt="niera1">
+    <a style="display;block;position:fixed;top:100px;right:0px;
+    border:0px solid black;hetght:50px;width:100px;background-color:green;
+    border-radius: 10px;" href="index.html">&nbsp&nbsp&nbsp&nbsp&nbsphomepage</a>
+
+    <br><br><br><br><br>
+
+  </body>
+</html>

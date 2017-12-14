@@ -1,0 +1,109 @@
+ <html>
+ <!DOCTYPE html>
+ <html>
+   <head>
+     <meta charset="utf-8">
+     <title>Welcome to the html world!</title>
+     <style type="text/css">
+a:link {
+ text-decoration: none;color:white
+}
+a:visited {
+ text-decoration: none;color:white
+}
+a:hover {
+ text-decoration: none;color:white
+}
+a:active {
+ text-decoration: none;color:white
+}
+</style>
+   </head>
+   <body >
+     <h1 style="text-align:center;font-size: 50px">Step one: set some primary stuff</h1>
+
+     <p style="font-size: 25px">&nbsp&nbspSuch as the "head" tag and the "p" tag,fill the webpage
+     with the words.</p>
+
+     <br><br>
+
+     <p style="font-size: 25px">&nbsp&nbspMaybe the use of the &lt;br&gt; tag would
+      make the webpage bigger:)
+  A hypermedia document on the world wide web is called a page (foreign language: page). As an organization or individual on
+  the web page called place the starting point for the home (foreign language: Homepage) or the home page, page usually contains
+  pointers to other pages or other node (link), the so-called super link is a uniform resource locator (Uniform Resource Locator,
+   English abbreviation: URL) pointer by activating (click) it can make easy access to new web browser. This is one of the most
+   important reasons for HTML to be widely used. The organic collection, which is logically regarded as a whole series of pages,
+   is called a web site (Website or Site). Hyper Text Markup Language (HTML) is a markup language designed for web page creation
+   and other information that can be seen in web browsers.
+  The essence of web pages is hyper text markup language, which can create powerful web pages by combining other Web technologies,
+   such as scripting language, public gateway interfaces, components and so on. Therefore, the hypertext markup language is the basis
+   of the Web programming, that is to say that the web is based on hypertext. The reason why hypertext markup language is called hypertext
+    markup language is because it contains the so-called "hyperlink" point.
+  <br><br>
+Hyper text markup language is an application under the standard generalized markup language. It is also a specification, a standard,
+which marks every part of the webpage to be displayed by marking symbols. Web file is a text file. By adding tags in text files, it can
+ tell browsers how to display contents, such as how to process text, how to arrange pictures, how to display pictures, etc. Read the page
+  file browser in order, then according to the marker interpretation and displays the contents of the tag, tag of writing error will not
+   point out the wrong, and not to stop its interpretation of the implementation process, compiled only through display effect to analyze the
+    cause of the error and error location. But it should be noted that for different browsers, there may be different interpretations for the
+     same marker, so it may show different display effects. </p>
+
+     <a style="display;block;position:fixed;top:100px;right:0px;
+     border:0px solid black;hetght:50px;width:100px;background-color:green;
+     border-radius: 10px;" href="index.html">&nbsp&nbsp&nbsp&nbsp&nbsphomepage</a>
+
+     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+     <br><br><br><br><br><br><br><br><br><br>
+     <p style="font-size: 25px">&nbsp&nbspNow a simple webpage has been made,please back to the homepage and
+      turn to step 2!</p>
+     <br><br><br><br><br><br><br><br><br><br><br><br>
+   </body>
+ </html>
+
+
+ <!--
+   <html>
+   <!DOCTYPE html>
+   <html>
+     <head>
+       <meta charset="utf-8">
+       <title>Welcome to the html world!</title>
+       <style type="text/css">
+   a:link {
+   text-decoration: none;color:white
+   }
+   a:visited {
+   text-decoration: none;color:white
+   }
+   a:hover {
+   text-decoration: none;color:white
+   }
+   a:active {
+   text-decoration: none;color:white
+   }
+   </style>
+     </head>
+     <body background="pink.jpg">
+
+
+       <h1 style="text-align:center;font-size: 50px">Step two: set some images</h1>
+
+       <p style="font-size: 25px">&nbsp&nbspSet a background image to make the webpage
+       more...fascinating?</p>
+
+       <br><br>
+
+       <p style="font-size: 25px">&nbsp&nbspAlso fill the webpage with more images!</p>
+
+       <<img src="niera1.png" alt="niera1">
+       <a style="display;block;position:fixed;top:100px;right:0px;
+       border:0px solid black;hetght:50px;width:100px;background-color:green;
+       border-radius: 10px;" href="web_main">&nbsp&nbsp&nbsp&nbsp&nbsphomepage</a>
+
+       <br><br><br><br><br>
+
+     </body>
+   </html>
+
+ -->
