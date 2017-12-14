@@ -1,0 +1,72 @@
+<html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <title>Welcome to the html world!</title>
+
+    <style type="text/css">
+
+    ul{
+      list-style: none;
+    }
+
+    li{
+      margin: 0 10px;
+      color: white;
+      float: left;
+      font-weight: bold;
+      font-size: 50px;
+      height:50px;
+      line-height: 50px;
+      padding: 0 15px;
+    }
+
+    li:hover{
+      border-radius: 25px;
+      background-color: white;
+      color: black;
+    }
+a:link {
+text-decoration: none;color:white
+}
+a:visited {
+text-decoration: none;color:white
+}
+a:hover {
+text-decoration: none;color:black
+}
+a:active {
+text-decoration: none;color:white
+}
+</style>
+</head>
+  <body background="grey.jpg">
+
+    <h2 style="color:white;text-align:center;font-size: 80px;">Welcome to my webpage</h2>
+
+    <h2 style="color:white;text-align:center">Now I would like to tell you the process of webpage making</h2>
+    <br><br><br><br><br><br><br><br><br>
+    <div style="padding:0 550px;">
+    <ul>
+      <li><a href="web_1">STEP 1</a></li>
+      <li><a href="web_2">STEP 2</a></li>
+      <li><a href="web_3">STEP 3</a></li>
+      <li><a href="web_4">STEP 4</a></li>
+      <li><a href="web_5">STEP 5</a></li>
+    </ul>
+  </div>
+    <!--
+    <a style="display;block;position:fixed;top:100px;right:0px;
+    border:0px solid black;hetght:50px;width:100px;background-color:green;" href="#top">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsptop</a>
+    -->
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <h3 style="color:white;text-align:center">If you have the problem about the details,please link:</h3>
+
+    <div style="text-align:center">
+      <a href="http://www.w3school.com.cn">- W3School -</a>
+    </div>
+
+  </body>
+</html>
